@@ -1,3 +1,11 @@
+streamlit
+joblib
+numpy
+pandas
+scikit-learn
+
+
+
 step - maps a unit of time in the real world. In this case 1 step is 1 hour of time.
 
 
@@ -32,5 +40,6 @@ It can refer to a decrease in the balance of a financial account due to a withdr
 In accounting, it represents an entry that reduces assets or increases liabilities.
 
 PAYMENT: Refers to the transfer of money from one party (payer) to another (payee) in exchange for goods, services, or as settlement of a debt.
+
 
 TRANSFER: Refers to moving money from one account to another, often between accounts held by the same person or entity.
