@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Load your saved model
-model = joblib.load("/content/final_fraud_detection_model (2).pkl")
+model = joblib.load("model.pkl")  # <- FIXED
 
 st.title("Fraud Detection ML App")
 
